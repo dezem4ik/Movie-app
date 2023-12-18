@@ -17,6 +17,9 @@
   display: none;
 }
 
-
-
+@media (min-width: 768px) {
+  .ant-tabs .ant-tabs-content-holder {
+    padding: 0 20px 0 20px
+  }
+}
 
