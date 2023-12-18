@@ -15,9 +15,8 @@
 }
 
 .movie-genre {
-  display: flex;
+  margin-bottom: 10px;
   white-space: nowrap;
-  overflow: scroll;
 }
 
 .movie-genre::-webkit-scrollbar {
@@ -175,7 +174,7 @@
     height: auto;
     overflow: hidden;
     position: static;
-    margin: 0 0 20px 0;
+    margin: 0 0 10px 0;
   }
 }
 
