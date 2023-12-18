@@ -1,0 +1,22 @@
+@media (min-width: 320px) {
+  :where(.css-dev-only-do-not-override-y2onqy).ant-input-group-wrapper {
+    max-width: 100%;
+    padding: 0 16px 0 16px;
+    background-color: white;
+  }
+}
+
+@media (min-width: 769px) {
+  :where(.css-dev-only-do-not-override-y2onqy).ant-input-group-wrapper {
+    padding: 0 36px 0 36px
+  }
+}
+
+
+.ant-btn {
+  display: none;
+}
+
+
+
+
